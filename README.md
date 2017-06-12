@@ -19,7 +19,7 @@ An aplication to make image processing to Hexadecimal-based images
 
 ## Execution 
 
-**./ARCfmut_seq -u _NUMBER OF THE UTILITY_ - _FLAG OF THE UTILITY_ -i _INPUT IMAGE_ -o _OUTPUT FILE_
+**./ARCfmut_seq -u _NUMBER OF THE UTILITY_ - _FLAG OF THE UTILITY_ -i _INPUT IMAGE_ -o _OUTPUT FILE_**
 
 ### Histogram
 
